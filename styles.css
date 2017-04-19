@@ -1,0 +1,16 @@
+.heading {
+	color:red;
+}
+
+body {
+	background-color: green;
+
+}
+
+nav ul {list-style: none;
+}
+
+nav ul li{
+	display: inline;
+
+}

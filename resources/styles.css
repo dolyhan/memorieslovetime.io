@@ -1,0 +1,104 @@
+.heading {
+	color:black;
+}
+
+body {
+	background-color: black;
+	font-family: "Lobster", "Georgia";
+	margin:0;
+
+}
+
+p {font-family: "Georgia";
+	color: white;
+}
+
+nav {
+	background-image: url("bg/bc2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+nav {
+	font-size: 20px;
+	text-align: center;
+	background-color: #ff9900;
+	position: fixed;
+	top:0;
+	left:0;
+	width: 100%;
+	height: 70px;
+}
+
+nav ul {list-style: none;
+}
+
+nav ul li {
+	display: inline; padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+nav ul li a{
+	color: black;
+	text-decoration: none;
+	transition: color ease 1s;
+
+}
+
+nav a:hover {
+	color: brown;
+	transition: color ease 1s;
+}
+
+
+.section {
+	padding :20px;
+	width: 100%;
+}
+
+
+#Welcome {
+	padding-top: 500px;
+	background-image: url("Dali.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#About {
+	padding-top: 500px;
+	background-color: #336699;
+}
+
+#Skills {
+	padding-top: 500px;
+	background-color: #660033;
+}
+
+#Photos {
+	padding-top: 500px;
+	background-color: #99c2ff;
+	background-image: url("bg/bc2.jpg");
+	background-repeat: no-repeat;
+}
+
+#Writings {
+	padding-top: 500px;
+	background-color: #ffff00;
+	font-family;
+}
+
+#Extra {
+	padding-top: 500px;
+	background-color: #ff0011;
+	background-image: url("bg/bc.jpg");
+
+}
+
+#myface {width:150px;
+}
+
+#Dali {width: 60%;
+}
+
+#tremont {width: 500px;
+}
